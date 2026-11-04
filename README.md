@@ -11,7 +11,7 @@
 ## What is included
 
 - Native SwiftUI project (`iOSPair.xcodeproj`) with iOS 18 deployment target.
-- Liquid Glass card styling on iOS 26 and later, with an Ultra Thin Material fallback on iOS 18–25.
+- Liquid Glass card styling on iOS 26 and later, with an Ultra Thin Material fallback on iOS 26.
 - Pairing-file import from Files and export back to Files.
 - Local vault stored in the app container with file protection enabled.
 - HTTPS relay client for iOS 18–26. The relay transports a genuine record supplied by a trusted computer-side pairing agent; the relay does not invent Apple credentials.

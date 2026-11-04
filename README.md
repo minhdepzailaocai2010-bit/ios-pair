@@ -39,7 +39,7 @@ Apple's public `DeviceDiscoveryUI` framework provides peer-to-peer pairing betwe
 |---|---|
 | Device family | iPhone (universal iOS app target) |
 | Deployment target | iOS 18.0+ |
-| iOS 18–25 | Import/export and HTTPS relay transfer; relay requires a trusted host agent |
+| iOS 18 | Import/export and HTTPS relay transfer; relay requires a trusted host agent |
 | iOS 26 | Same relay/import/export path, plus Liquid Glass card styling |
 | iOS 27+ | Guided device-side workflow and file import; native Developer Mode host integration is not included |
 | iPad | Not targeted or validated in this project |

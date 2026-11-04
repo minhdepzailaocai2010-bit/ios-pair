@@ -4,7 +4,7 @@
 
 **Creator:** Yanyan  
 **Bundle ID:** `com.yanyan.iospair`  
-**Minimum deployment target:** iOS 18.0
+**Minimum deployment target:** iOS 26.0
 
 ![iOS Pair app icon](iOSPair/Resources/Assets.xcassets/AppIcon.appiconset/AppIcon.png)
 
